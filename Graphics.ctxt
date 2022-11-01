@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Graphics
+comment0.text=\n\ Runs\ the\ graphics\ and\ input\ for\ the\ integral\ function\n\n\ @author\ Ryan\ Sundermeyer\n\ @version\ 5/24/2022\n
+comment1.params=tStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\n\ @param\ Stage\ tStage\ temporary\ stage\ placeholder\n
+comment2.params=event
+comment2.target=void\ clickEnter(javafx.event.ActionEvent)
+comment2.text=\n\ @param\ ActionEvent\ event\ action\ event\ used\ for\ button\ click\ detection\n
+numComments=3
